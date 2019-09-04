@@ -1,0 +1,18 @@
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\CleanCodeNamesExample\bin\Debug\CleanCodeNamesExample.exe.config
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\CleanCodeNamesExample\bin\Debug\CleanCodeNamesExample.exe
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\CleanCodeNamesExample\bin\Debug\CleanCodeNamesExample.pdb
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\CleanCodeNamesExample\obj\Debug\CleanCodeNamesExample.Properties.Resources.resources
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\CleanCodeNamesExample\obj\Debug\Writing Clean Code.csproj.GenerateResource.cache
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\CleanCodeNamesExample\obj\Debug\Writing Clean Code.csproj.CoreCompileInputs.cache
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\CleanCodeNamesExample\obj\Debug\CleanCodeNamesExample.exe
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\CleanCodeNamesExample\obj\Debug\CleanCodeNamesExample.pdb
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\CleanCodeNamesExample\obj\Debug\Writing Clean Code.csprojAssemblyReference.cache
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\Writing Clean Code\obj\Debug\Writing Clean Code.csprojAssemblyReference.cache
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\Writing Clean Code\obj\Debug\Writing Clean Code.csproj.GenerateResource.cache
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\Writing Clean Code\obj\Debug\Writing Clean Code.csproj.CoreCompileInputs.cache
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\Writing Clean Code\bin\Debug\CleanCode.exe.config
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\Writing Clean Code\bin\Debug\CleanCode.exe
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\Writing Clean Code\bin\Debug\CleanCode.pdb
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\Writing Clean Code\obj\Debug\CleanCode.Properties.Resources.resources
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\Writing Clean Code\obj\Debug\CleanCode.exe
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\Writing Clean Code\obj\Debug\CleanCode.pdb
