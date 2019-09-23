@@ -19,3 +19,4 @@ A:\Source\Repos\13_Udemy\C# Writing Clean Code\Writing Clean Code\bin\Debug\nuni
 A:\Source\Repos\13_Udemy\C# Writing Clean Code\Writing Clean Code\bin\Debug\nunit.framework.pdb
 A:\Source\Repos\13_Udemy\C# Writing Clean Code\Writing Clean Code\bin\Debug\nunit.framework.xml
 A:\Source\Repos\13_Udemy\C# Writing Clean Code\Writing Clean Code\obj\Debug\Writing Clean Code.csproj.CopyComplete
+A:\Source\Repos\13_Udemy\C# Writing Clean Code\Writing Clean Code\obj\Debug\Writing Clean Code.csprojAssemblyReference.cache

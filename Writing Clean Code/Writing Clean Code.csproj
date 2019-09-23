@@ -86,6 +86,8 @@
     <Compile Include="12. NestedConditionals\Customer.cs" />
     <Compile Include="12. NestedConditionals\Nested Conditionals.cs" />
     <Compile Include="12. NestedConditionals\SimplifyConditionals.cs" />
+    <Compile Include="14. DuplicatedCode\DuplicatedCode.cs" />
+    <Compile Include="14. DuplicatedCode\Time.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="07. PoorMethodSignatures\User.cs" />
     <Compile Include="07. PoorMethodSignatures\UserDbContext.cs" />

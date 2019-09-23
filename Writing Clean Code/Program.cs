@@ -19,16 +19,29 @@ namespace CleanCode
             //customer.LoyaltyPoints = 88;
             //DateTime date = DateTime.Now;
 
-            ShowPayAsYouGoCustomer();
+            //ShowPayAsYouGoCustomer();
+            //ShorUnlimitedCustomer();
 
-            ShorUnlimitedCustomer();
-
+            AdmitGuestSample1();
+            UpdateAdmitGuestSample1();
 
 #if DEBUG
             Console.WriteLine("\nPress any key...");
             Console.ReadKey();
 #endif
 
+        }
+
+        static void AdmitGuestSample1()
+        {
+            var duplicatedCode = new DuplicatedCode.DuplicatedCode();
+            duplicatedCode.AdmitGuest("Meier", "10:09");
+        }
+
+        static void UpdateAdmitGuestSample1()
+        {
+            var duplicatedCode = new DuplicatedCode.DuplicatedCode();
+            duplicatedCode.UpdateAdmitGuest(1, "Meier", "11:15");
         }
 
         static void ShowPayAsYouGoCustomer()
